@@ -61,3 +61,5 @@ https://github.com/mitthu786/Awesome-Hacking
 
 
 https://live.iptv-free.com/iptv/categories/sports.m3u ------for sports all live seen on 29-12-2025
+ 
+https://github.com/softwaresign/TeatimeTV/blob/main/Tata%20Real%20IP.m3u ---tata real on 29-12-2025
