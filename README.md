@@ -58,3 +58,6 @@ https://github.com/mitthu786/hackingtool
 
 https://github.com/mitthu786/Awesome-Hacking
 
+
+
+https://live.iptv-free.com/iptv/categories/sports.m3u ------for sports all live seen on 29-12-2025
