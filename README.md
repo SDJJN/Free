@@ -70,3 +70,6 @@ https://sflex07.fun/StreamFlexZioGarmTara.m3u
 
 https://github.com/fakeall12398-sketch/JIO_TV/blob/main/movie.json---on 17:07 30-12-2025
 
+
+
+https://github.com/ranapk73/BDIX ----movies
