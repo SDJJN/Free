@@ -73,3 +73,6 @@ https://github.com/fakeall12398-sketch/JIO_TV/blob/main/movie.json---on 17:07 30
 
 
 https://github.com/ranapk73/BDIX ----movies
+
+
+https://raw.githubusercontent.com/143maha/Sonuiptvnew/main/tv.adult.m3u
