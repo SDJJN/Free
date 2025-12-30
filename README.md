@@ -67,3 +67,6 @@ https://github.com/softwaresign/TeatimeTV/blob/main/Tata%20Real%20IP.m3u ---tata
 
 https://sflex07.fun/StreamFlexZioGarmTara.m3u
 
+
+https://github.com/fakeall12398-sketch/JIO_TV/blob/main/movie.json---on 17:07 30-12-2025
+
